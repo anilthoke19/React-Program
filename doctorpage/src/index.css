@@ -1,0 +1,143 @@
+#head
+{
+  background-color: antiquewhite;
+  padding: 12px;
+}
+
+#second
+{
+  background-color:white;
+
+}
+
+#navBar{
+margin-top:15px;
+position: sticky;
+top: 0;
+
+}
+
+
+
+#navBar ul li {
+  list-style: none;
+  display: inline;
+
+  
+
+}
+#navBar ul li a{
+  padding: 12px;
+  font-weight: bold;
+  
+}
+#h{
+  color: rgb(34, 34, 140);
+}
+
+#a{
+  background-color:blue;
+}
+#b {
+
+  color:white;
+  padding: 14px 30px 14px 50px;
+   
+ 
+}
+
+#form-label2{
+  border:none;
+  background-color:white;
+}
+
+#dtext
+{
+  background-color: blue;
+  color: white;
+  
+}
+#dtext h1{
+  margin: 60px;
+  font-size: 60px;
+  font-weight: bolder;
+  
+}
+#good{
+height: 500px;
+}
+#dimage
+{
+  background-image:url(Images2/header-page.jpg);
+  background-size:cover;
+}
+
+.table
+{
+color: white;
+border: none;
+padding-left: 20px;
+margin: 40px;
+}
+
+.table th{
+  border: none;
+  border-left: 2px solid white;
+  font-weight: bold;
+
+}
+
+/* for whyImage */
+
+#b
+{
+border-radius: 50px;
+background-color: blue;
+
+}
+
+/* Service health */
+
+#sh{
+  transition: 0.3s;
+}
+#serv{
+
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 12px;
+/* 
+  width: 70px ;
+  height: 5px;
+   */
+
+  
+}
+
+#sh:hover{
+  transform:translate(0,-10px);
+
+}
+
+#sh{
+ 
+  margin-top: 55px;
+}
+
+/* Box 6 */
+
+.one{
+
+  height: 300px;
+  width: auto;
+  background-color: rgb(190, 221, 221);
+  margin:10px;
+
+}
+.one{
+  transition: 0.3s;
+}
+.one:hover{
+  transform:translate(0,-10px)
+}
+

@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.formP
+{
+border:3px solid black;
+color:"blue";
+width: 270px;
+padding-left: 40px;
+padding-bottom: 10px;
+background-color: black;
+margin: 130px;
+height: 290px;
+}
+h2{
+  color:greenyellow;
+}
+input{
+  width:230px ; 
+  height: 25px;
+}
+label{
+ 
+}
+a{
+  text-decoration: none;
+}
+button{
+margin-left: 5px;
+width:240px ;
+height: 30px;
+background-color: greenyellow;
+
+}
+.sign{
+  color: greenyellow;
+}
+
+.forgot{
+color: white;
+padding-right: 60px;
+
+}

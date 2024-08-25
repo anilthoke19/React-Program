@@ -1,0 +1,15 @@
+.one
+{
+  text-decoration: none;
+ 
+}
+
+li{
+  display: inline;
+  padding: 40px;
+}
+
+ul{
+  background-color: bisque;
+  padding: 20px;
+}
